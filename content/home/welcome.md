@@ -1,23 +1,17 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+headless: true
+weight: 10
+title: ""
 hero_media: welcome.jpg
+widget_id: website-homepage
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
+We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as *Sargassum* as well as other ecologically and economically important seaweeds such as red seaweeds *Asparagopsis* and *Halymenia*, and green seaweeds *Ulva*. Other research done by our team include floristics, marine phytogeography, and molecular phylogenetics.
 
-<br>
+Moreover, we conduct applied phycological research, with special reference to seaweed farming (i.e., mass cultivation of carrageenan-producing seaweeds *Kappaphycus*, *Eucheuma*, and *Halymenia*). Currently, we are scaling up on our efforts in harnessing underutilized seaweed resources by developing novel and/or locally-adapted cultivation technologies for large-scale biomass production of economically important seaweeds such as *Ulva* and *Asparagopsis*. This is to support the call of the seaweed industry to diversify our seaweed products.
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our team of young, budding scientists is led by one of the newest additions to the roster of faculty of MSI, **[Dr. Wilfred John E. Santiañez](https://scholar.google.com.ph/citations?user=7nHONlIAAAAJ&hl=en)**.
