@@ -1,9 +1,11 @@
 ---
 title: John Michael L. Lastimoso
-role: University Research Associate & Research Staff (part-time), G.T. Velasquez
-  Phycological Herbarium (MSI) and UP-Marine Macroalgal Reference Culture
-  Collections (UPMMARCC)
+role: University Research Associate
 avatar_filename: avatar.jpg
+interests:
+  - Seaweed phylogenetics
+  - Seaweed culture
+  - Seaweed biogeography
 social:
   - display:
       header: false
