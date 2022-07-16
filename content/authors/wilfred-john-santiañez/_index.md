@@ -1,5 +1,5 @@
 ---
-title: Wilfred John Santiañez
+title: Wilfred John E. Santiañez
 role: Assistant Professor & Collections Manager, G.T. Velasquez Phycological
   Herbarium (MSI) and UP-Marine Macroalgal Reference Culture Collections
   (UPMMARCC)
@@ -46,7 +46,7 @@ education:
     - course: Master of Environment and Natural Resources Management
       year: 2014
       institution: University of the Philippines Open University
-    - course: "  BSc in Marine Biology"
+    - course: B.Sc. in Marine Biology
       institution: Mindanao State University (General Santos)
       year: 2006
 superuser: true
