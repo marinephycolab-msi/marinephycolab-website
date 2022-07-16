@@ -1,7 +1,7 @@
 ---
 title: Christian Ace T. Guerta
 role: Laboratory Technician
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 organizations:
   - name: The Marine Science Institute, University of the Philippines
