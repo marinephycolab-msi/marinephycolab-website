@@ -18,7 +18,7 @@ content:
   user_groups:
     - Principal Investigator
     - Researchers
-    - Graduate Students
+    - Grad Students
     - Alumni (Previous Members)
 design:
   show_interests: false
