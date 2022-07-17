@@ -1,5 +1,5 @@
 ---
-abstract: Recent taxonomic and molecular phylogenetic studies by McDevit &
+abstract: Recdent taxonomic and molecular phylogenetic studies by McDevit &
   Saunders (2017) of Canadian Scytosiphonaceae resulted to the description of
   the new genus <i>Planosiphon</i> McDevit & G.W. Saunders and a new species
   <i>Scytosiphon promiscuus</i> McDevit & G.W.Saunders. The proposal of the new
