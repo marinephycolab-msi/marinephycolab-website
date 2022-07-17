@@ -8,6 +8,7 @@
   justify-content: center;
 }
 
+// HOMEPAGE AESTHETICSS
 .hero-lead {
   font-size: 19.5px;
   font-family: Cambria;
@@ -27,4 +28,10 @@
 
 .fa-solid, .fas {
   color: white;
+}
+
+// PUBLICATION PAGE AESTHETICS
+.pub .article-container .pt-3 h1 {
+  font-family: Cambria;
+  font-size: 40px;
 }
