@@ -36,6 +36,7 @@ abstract: A new and putatively endemic species of <i>Hydroclathrus</i>,
   implexa</i>. With the above proposals, we further increase the genus-level
   diversity of Scytosiphonaceae in the Indo-Pacific Ocean.
 draft: false
+weight: 98
 featured: false
 image:
   filename: featured.jpg
