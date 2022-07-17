@@ -18,6 +18,7 @@ abstract: Recent taxonomic and molecular phylogenetic studies by McDevit &
   \[unilocular sporangia] (Kogame and Kawai 1993, Kogame 1998, Kogame <i>et
   al.</i> 1999).
 draft: false
+weight: 99
 url_pdf: http://notulaealgarum.org/documents/Notulae%20algarum%20No.%2040.pdf
 title: Transfer of Petalonia filiformis (Batters) Kuntze to the genus
   Planosiphon McDevit & G.W. Saunders (Scytosiphonaceae, Phaeophyceae)
@@ -25,13 +26,12 @@ publication_types:
   - "2"
 authors:
   - Wilfred John E. Santiañez
-  - Kazuhiro Kogame
+  - [Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)
 publication: Notale Algarum, 40 (31 October 2017)
 featured: false
-date: 2017-10-31T09:55:54.373Z
-weight: 99
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+date: 2017-10-31T09:55:54.373Z
 ---
