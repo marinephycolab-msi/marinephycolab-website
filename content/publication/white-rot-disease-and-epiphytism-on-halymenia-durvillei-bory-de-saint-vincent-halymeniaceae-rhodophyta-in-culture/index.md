@@ -8,10 +8,7 @@ authors:
   - Hera Suan-Flandez
   - Gavino C. Trono
   - Jr.
-author_notes:
-  - University of the Philippines Diliman & Hokkaido University Japan
-  - University of the Philippines Diliman
-  - University of the Philippines Diliman
+author_notes: []
 doi: ""
 publication: Science Diliman, 28(1)
 abstract: We report herein for the first time the occurrence of a white rot
