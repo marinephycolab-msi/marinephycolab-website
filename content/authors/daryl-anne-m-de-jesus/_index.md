@@ -1,6 +1,6 @@
 ---
 title: Daryl Anne M. De Jesus
-role: ""
+role: M.Sc. in Marine Science (Marine Biology) student
 avatar_filename: avatar
 interests:
   - Seaweed reproductive biology
