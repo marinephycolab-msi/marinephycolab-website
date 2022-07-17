@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Wilfred John E. Santiañez
-  - Kazuhiro Kogame(https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)
+  - Kazuhiro Kogame
 abstract: Recent taxonomic and molecular phylogenetic studies by McDevit &
   Saunders (2017) of Canadian Scytosiphonaceae resulted to the description of
   the new genus <i>Planosiphon</i> McDevit & G.W. Saunders and a new species
