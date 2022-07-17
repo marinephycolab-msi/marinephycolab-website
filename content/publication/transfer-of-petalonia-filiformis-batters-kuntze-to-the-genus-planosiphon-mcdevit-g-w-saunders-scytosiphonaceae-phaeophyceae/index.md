@@ -31,5 +31,6 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-07-17T09:55:54.373Z
+url_pdf: http://notulaealgarum.org/documents/Notulae%20algarum%20No.%2040.pdf
+date: 2017-10-31T09:55:54.373Z
 ---
