@@ -25,6 +25,7 @@ abstract: Recent taxonomic and molecular phylogenetic studies by McDevit &
   [unilocular sporangia] (Kogame and Kawai 1993, Kogame 1998, Kogame <i>et
   al.</i> 1999).
 draft: false
+weight: 99
 featured: false
 image:
   filename: featured.png
