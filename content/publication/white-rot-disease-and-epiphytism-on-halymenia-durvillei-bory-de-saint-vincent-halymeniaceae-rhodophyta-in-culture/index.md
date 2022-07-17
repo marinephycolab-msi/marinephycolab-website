@@ -22,7 +22,6 @@ authors:
   - Hera Suan-Flandez
   - Gavino C. Trono Jr.
 author_notes: []
-date: 2016
 doi: ""
 publication: Science Diliman, 28(1)
 featured: false
@@ -30,5 +29,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-07-17T09:11:57.060Z
+date: 2016
 ---
