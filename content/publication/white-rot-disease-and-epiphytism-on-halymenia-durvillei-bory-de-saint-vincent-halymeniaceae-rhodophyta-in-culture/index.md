@@ -28,7 +28,6 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-links:
-  url_pdf: https://www.researchgate.net/publication/304461264_White_rot_disease_and_epiphytism_on_Halymenia_durvillei_Bory_de_Saint-Vincent_Halymeniaceae_Rhodophyta_in_culture
+url_pdf: https://www.researchgate.net/publication/304461264_White_rot_disease_and_epiphytism_on_Halymenia_durvillei_Bory_de_Saint-Vincent_Halymeniaceae_Rhodophyta_in_culture
 date: 2022-07-17T09:11:57.060Z
 ---
