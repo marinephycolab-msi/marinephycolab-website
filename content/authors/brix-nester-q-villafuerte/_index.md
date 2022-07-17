@@ -11,7 +11,7 @@ organizations:
     url: " www.msi.upd.edu.ph"
 education:
   courses:
-    - course: "  BSc in Biology"
+    - course: "  B.Sc. in Biology"
       institution: Pamantasan Lungsod ng Maynila
       year: 2018
 superuser: false
