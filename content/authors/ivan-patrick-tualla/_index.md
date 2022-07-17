@@ -1,5 +1,5 @@
 ---
-title: Ivan Patrick Tualla
+title: Ivan Patrick B. Tualla
 avatar_filename: avatar.jpg
 social: []
 organizations: []
