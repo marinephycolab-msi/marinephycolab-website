@@ -30,14 +30,26 @@
   color: white;
 }
 
-// PAGE TITLE
+// PAGE TITLE AESTHETICS
 h1 {
   font-family: Cambria;
   font-size: 40px;
   font-weight: bold;
 }
 
-// PAGE SUB-TITLE
+// PAGE SUB-TITLE AESTHETICS
 article-metadata {
   font-family: Roboto;
+}
+
+// PAGE SECTION TITLE AESTHETICS
+h3 {
+  font-family: Cambria;
+  font-size: 25px;
+}
+
+// PAGE BODY AESTHETICS
+p .pub-abstract {
+  font-family: Roboto;
+  font-size: 18px;
 }
