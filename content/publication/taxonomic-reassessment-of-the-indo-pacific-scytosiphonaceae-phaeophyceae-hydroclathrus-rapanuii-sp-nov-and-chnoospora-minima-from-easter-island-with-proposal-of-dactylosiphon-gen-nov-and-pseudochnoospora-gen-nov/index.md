@@ -27,7 +27,7 @@ abstract: A new and putatively endemic species of <i>Hydroclathrus</i>,
   herein propose the recognition of two new genera, <i>Dactylosiphon</i> gen.
   nov. and <i>Pseudochnoospora</i> gen. nov., based on our three-gene phylogeny
   and their known morphologies and anatomies. <i>Dactylosiphon</i> is based on
-  the three species currently assigned to <i>Colpomenia</i> (<i>C. bullosa<i/>,
+  the three species currently assigned to <i>Colpomenia</i> (<i>C. bullosa</i>,
   <i>C. durvillei</i>, and <i>C. wynnei</i>) that are genetically and
   morphologically (i.e. thalli with erect and finger-like tubes arising from a
   common saccate base) distinct from other members of <i>Colpomenia</i>. The
