@@ -14,13 +14,14 @@ abstract: We report herein for the first time the occurrence of a white rot
   on the cultured <i>H. durvillei</i>.
 draft: false
 url_pdf: https://www.researchgate.net/publication/304461264_White_rot_disease_and_epiphytism_on_Halymenia_durvillei_Bory_de_Saint-Vincent_Halymeniaceae_Rhodophyta_in_culture
-title: White rot disease and epiphytism on Halymenia durvillei Bory de Saint-Vincent (Halymeniaceae, Rhodophyta) in culture
+title: White rot disease and epiphytism on Halymenia durvillei Bory de
+  Saint-Vincent (Halymeniaceae, Rhodophyta) in culture
 publication_types:
   - "2"
 authors:
   - Wilfred John E. Santiañez
   - Hera Suan-Flandez
-  - Gavino C. Trono Jr.
+  - Gavino C. Trono Jr
 author_notes: []
 doi: ""
 publication: Science Diliman, 28(1)
