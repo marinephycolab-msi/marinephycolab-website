@@ -23,5 +23,7 @@ education:
 superuser: true
 user_groups:
   - Researchers
+
+weight: 1
 ---
 JM is the in-house research assistant under the Marine Phycology Laboratory. His main interests are on seaweed phylogenetics, culture, and biogeography research. He is currently exploring the diversity of the algal families, Delesseriaceae, Peyssonneliaceae, Scytosiphonaceae, and Sphacelariaceae in the Philippines, as well as establishing baseline information on the life history of select seaweed species in culture. He also maintains the reference culture collections of the laboratory as well as the specimens at the G.T. Velasquez Phycological Herbarium.
