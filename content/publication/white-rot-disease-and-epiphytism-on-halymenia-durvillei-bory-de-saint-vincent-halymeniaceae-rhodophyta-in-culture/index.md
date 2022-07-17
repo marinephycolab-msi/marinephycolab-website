@@ -1,5 +1,5 @@
 ---
-title: White rot disease and epiphytism on <i>Halymenia durvillei</i> Bory de
+title: White rot disease and epiphytism on *Halymenia durvillei* Bory de
   Saint-Vincent (Halymeniaceae, Rhodophyta) in culture
 publication_types:
   - "2"
