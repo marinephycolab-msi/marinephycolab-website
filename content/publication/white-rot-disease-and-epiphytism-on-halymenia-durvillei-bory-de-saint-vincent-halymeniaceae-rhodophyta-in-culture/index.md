@@ -12,6 +12,8 @@ author_notes:
   - University of the Philippines Diliman & Hokkaido University Japan
   - University of the Philippines Diliman
   - University of the Philippines Diliman
+doi: https://journals.upd.edu.ph/index.php/sciencediliman/article/download/5208/4679
+publication: Science Diliman, 28(1)
 abstract: We report herein for the first time the occurrence of a white rot
   disease and heavy infestation of epiphytes on the cultured red seaweed
   <i>Halymenia durvillei</i> in Bolinao, Pangasinan. White rot disease causes
