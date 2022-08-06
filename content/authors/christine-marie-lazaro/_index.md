@@ -1,5 +1,5 @@
 ---
-title: Christine Marie Lazaro
+title: Christine Marie M. Lazaro
 role: University Research Associate
 avatar_filename: avatar
 social: []
