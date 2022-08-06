@@ -1,6 +1,6 @@
 ---
 title: Fraulein Jan O. Calumpiano
-role: M.Sc. in Marine Science (Marine Biology) student
+role: Project Assistant & M.Sc. in Marine Science (Marine Biology) student
 avatar_filename: avatar
 social: []
 organizations:
@@ -9,4 +9,5 @@ organizations:
 superuser: false
 user_groups:
   - Grad Students
+  - Researchers
 ---
