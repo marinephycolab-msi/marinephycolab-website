@@ -5,6 +5,11 @@ subtitle: ""
 date: 2022-08-07T00:14:09.888Z
 draft: false
 featured: false
+authors:
+  - Wilfred John E. Santiañez
+  - Marie Angeline M. Francisco
+  - Julius Diyeng D. Canja
+  - Joseph C. Ragos
 image:
   filename: featured
   focal_point: Smart
