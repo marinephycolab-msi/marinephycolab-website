@@ -2,7 +2,12 @@
 title: Christian Ace T. Guerta
 role: Laboratory Technician
 avatar_filename: avatar.jpg
-social: []
+social:
+  - display:
+      header: false
+    link: https://twitter.com/RBGE_Science
+    icon_pack: fab
+    icon: twitter
 organizations:
   - name: The Marine Science Institute, University of the Philippines
     url: " www.msi.upd.edu.ph"
