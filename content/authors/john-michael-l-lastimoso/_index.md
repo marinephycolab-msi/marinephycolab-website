@@ -6,7 +6,7 @@ interests:
   - Seaweed phylogenetics
   - Seaweed culture
   - Seaweed biogeography
-  - Ecological niche modelling
+  - Species distribution modelling
 social:
   - display:
       header: false
