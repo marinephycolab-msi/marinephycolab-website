@@ -7,12 +7,7 @@ interests:
   - Seaweed culture
   - Seaweed biogeography
   - Ecological niche modelling
-social:
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/John_Michael_Lastimoso
-    icon_pack: ai
-    icon: researchgate
+social: []
 organizations:
   - name: The Marine Science Institute, University of the Philippines
     url: www.msi.upd.edu.ph
