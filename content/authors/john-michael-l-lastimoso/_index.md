@@ -12,8 +12,8 @@ social:
   - display:
       header: false
     link: https://twitter.com/taonglumot
-    icon_pack: far
-    icon: twitter
+    icon_pack: fab
+    icon: Twitter
   - display:
       header: false
     link: https://www.researchgate.net/profile/John_Michael_Lastimoso
