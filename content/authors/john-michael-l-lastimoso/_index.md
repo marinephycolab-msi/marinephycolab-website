@@ -18,6 +18,11 @@ social:
     link: https://www.researchgate.net/profile/John_Michael_Lastimoso
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=en&user=uN8F-1wAAAAJ
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: The Marine Science Institute, University of the Philippines
     url: www.msi.upd.edu.ph
