@@ -7,7 +7,6 @@ interests:
   - Seaweed culture
   - Seaweed biogeography
   - Ecological niche modelling
-  - Natural history museum curation
 social:
   - display:
       header: false
