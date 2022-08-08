@@ -14,11 +14,6 @@ social:
     link: https://www.researchgate.net/profile/John_Michael_Lastimoso
     icon_pack: ai
     icon: researchgate
-  - display:
-      header: false
-    link: https://twitter.com/taonglumot
-    icon_pack: fab
-    icon: twitter
 organizations:
   - name: The Marine Science Institute, University of the Philippines
     url: www.msi.upd.edu.ph
