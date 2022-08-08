@@ -12,7 +12,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/taonglumot
-    icon_pack: fas
+    icon_pack: far
     icon: twitter
   - display:
       header: false
